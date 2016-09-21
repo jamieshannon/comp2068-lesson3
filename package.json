@@ -1,0 +1,19 @@
+{
+  "name": "lesson3",
+  "version": "1.0.0",
+  "description": "Using npm for the first time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamieshannon/comp2068-lesson3.git"
+  },
+  "author": "Jamie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamieshannon/comp2068-lesson3/issues"
+  },
+  "homepage": "https://github.com/jamieshannon/comp2068-lesson3#readme"
+}
